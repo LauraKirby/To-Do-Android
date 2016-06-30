@@ -36,6 +36,10 @@ Here's a walkthrough of implemented user stories:
 
 <img src='http://i.imgur.com/68MGXMw.gif?1' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
+After re-reading the implemenation instructions this afternoon, I began implementing the specifications as described in the "Conceptual Overview" (see "Notes" section for more details). 
+
+<img src="https://c3.staticflickr.com/8/7671/27380962954_a1b581e5e7_z.jpg" width="370" height="640" alt="Image with Layout">
+
 ## Notes
 
 Android Studio is pretty neat! I like how many of the Android method and selector names are similar to those used within web development. The code editor is helpful, I like how the warnings allow you to quickly try several things.
