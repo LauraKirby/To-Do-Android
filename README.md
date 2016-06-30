@@ -40,9 +40,13 @@ Here's a walkthrough of implemented user stories:
 
 Android Studio is pretty neat! I like how many of the Android method and selector names are similar to those used within web development. The code editor is helpful, I like how the warnings allow you to quickly try several things.
 
+A user can edit and save an item. Great. Done. And then I re-read the submission guidelines, my implementation is different than what is described in the Conceptual Overview. One might say that I took a "creative" approach? Darn, I simply missed this aspect. I'm happy to redo this feature.
+
 When following the slides for the To Do app, I became confused at slide 19. I was coding along and didn't realize that only some of the code pictured in the slide was to be included in `MainActivity.java`. When I reached out to Nathan, he was quick to respond (thank you).
 
 I didn't realize that there was a coding aspect of the application, I would have made time for it earlier in the month. My fault for not checking my email more regularly.
 
-Thank you for considering my candidacy!
+If accepted, I am prepared to continue studying the Android SDK and Java between now and the beginning of the program.
+
+**Thank you for considering my candidacy!**
 
