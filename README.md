@@ -7,7 +7,7 @@
 
 Submitted by: **Laura Kirby**
 
-Time spent: **10** hours spent in total
+Time spent: **20** hours spent in total
 
 ## User Stories
 
