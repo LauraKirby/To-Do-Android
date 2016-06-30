@@ -44,13 +44,9 @@ After re-reading the implemenation instructions this afternoon, I began implemen
 
 Android Studio is pretty neat! I like how many of the Android method and selector names are similar to those used within web development. The code editor is helpful, I like how the warnings allow you to quickly try several things.
 
-It took me a while to setup Android Studio and system requirements.
+I created the edit and update functionality without paying close attention to the project specifications. After re-reading the submission guidelines this afternoon, I noticed that my implementation is different than what is described in the Conceptual Overview. One might say that I took a "creative" approach? Darn, I simply missed this aspect. I started to build out the feature as described in the Conceptual Overview, but I didn't have time to finish it (see image about and branch titled "edit-to-do-items"). 
 
-A user can edit and save an item. Great. Done. And then I re-read the submission guidelines, my implementation is different than what is described in the Conceptual Overview. One might say that I took a "creative" approach? Darn, I simply missed this aspect. I'm happy to redo this feature.
-
-When following the slides for the To Do app, I became confused at slide 19. I was coding along and didn't realize that only some of the code pictured in the slide was to be included in `MainActivity.java`. When I reached out to Nathan, he was quick to respond (thank you).
-
-I didn't realize that there was a coding aspect of the application, I would have made time for it earlier in the month. My fault for not checking my email more regularly.
+I didn't realize that there was a coding aspect of the application, I would have made time for it earlier in the month.
 
 If accepted, I am prepared to continue studying the Android SDK and Java between now and the beginning of the program.
 
